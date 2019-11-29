@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-app-gh-pages/static/css/main.b100e6da.chunk.css",
+    "main.js": "/test-app-gh-pages/static/js/main.9bfec059.chunk.js",
+    "main.js.map": "/test-app-gh-pages/static/js/main.9bfec059.chunk.js.map",
+    "runtime-main.js": "/test-app-gh-pages/static/js/runtime-main.d841b354.js",
+    "runtime-main.js.map": "/test-app-gh-pages/static/js/runtime-main.d841b354.js.map",
+    "static/js/2.c05fa0b6.chunk.js": "/test-app-gh-pages/static/js/2.c05fa0b6.chunk.js",
+    "static/js/2.c05fa0b6.chunk.js.map": "/test-app-gh-pages/static/js/2.c05fa0b6.chunk.js.map",
+    "index.html": "/test-app-gh-pages/index.html",
+    "precache-manifest.6aa72addcc83a6b1d18b676df29bb1ef.js": "/test-app-gh-pages/precache-manifest.6aa72addcc83a6b1d18b676df29bb1ef.js",
+    "service-worker.js": "/test-app-gh-pages/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/test-app-gh-pages/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/test-app-gh-pages/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d841b354.js",
+    "static/js/2.c05fa0b6.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.9bfec059.chunk.js"
+  ]
+}
